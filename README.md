@@ -7,10 +7,10 @@
    <>
 3. multimedia programing (AI, OpenCv, Python)
 
-  <sound filterung, rendering, TTS, ASR>  
+   <sound filterung, rendering, TTS, ASR>  
+   <OpenCV>
 
-  <Open CV>
-4....  
+   4....  
 
 <!--
 **Konsla99/Konsla99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
