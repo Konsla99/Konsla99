@@ -1,4 +1,16 @@
-### Hi there 👋
+### About works 👋
+1. Embsys (AI, Device driver, OpenCV)
+
+   <embedded coding with Rpi4 & device driver>  
+2. Eme_struc
+ 
+   <>
+3. multimedia programing (AI, OpenCv, Python)
+
+  <sound filterung, rendering, TTS, ASR>  
+
+  <Open CV>
+4....  
 
 <!--
 **Konsla99/Konsla99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
